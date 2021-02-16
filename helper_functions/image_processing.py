@@ -1,4 +1,5 @@
 """
+Credit to Kenneth Kuhn (https://github.com/kennethkuhn)
 Three functions applying basic image processing techniques to a list of h3 hexs.
 """
 from h3 import h3
