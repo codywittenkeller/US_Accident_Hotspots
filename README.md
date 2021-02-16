@@ -8,7 +8,7 @@ This notebook does the following:
 4. Calculates Metrics for each of those Regions
 5. Visualize the hotspots within <a href="https://kepler.gl/">Kepler GL</a>
 
-Shout out to <a href="https://github.com/polar2">@Kenneth_Kuhn</a> for assistance with the image_processing component! 
+Shout out to <a href="https://github.com/kennethkuhn">@Kenneth_Kuhn</a> for assistance with the image_processing component! 
 
 ### Example of Map Output:
 To explore the interactive map checkout US_Accident_Hotspots.html file
