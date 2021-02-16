@@ -16,6 +16,6 @@ To explore the
 <img src="images/hotspots.png?raw=true"/>
 
 <iframe
-  src="hotspots.html"
+  src="US_Accident_Hotspots.html"
   style="width:100%; height:500px;"
 ></iframe>
