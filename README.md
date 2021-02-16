@@ -11,11 +11,6 @@ This notebook does the following:
 Shout out to <a href="https://github.com/polar2">@Kenneth_Kuhn</a> for assistance with the image_processing component! 
 
 ### Example of Map Output:
-To explore the 
+To explore the interactive map checkout US_Accident_Hotspots.HTML file
 
 <img src="images/hotspots.png?raw=true"/>
-
-<iframe
-  src="US_Accident_Hotspots.html"
-  style="width:100%; height:500px;"
-></iframe>
