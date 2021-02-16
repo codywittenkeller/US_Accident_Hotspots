@@ -13,4 +13,4 @@ Shout out to <a href="https://github.com/polar2">@Kenneth_Kuhn</a> for assistanc
 ### Example of Map Output:
 To explore the interactive map checkout US_Accident_Hotspots.HTML file
 
-<iframe src="US_Accident_Hotspots.html" style="width:100%;height:500px;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="images/US_Accident_Hotspots.html" style="width:100%;height:500px;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
