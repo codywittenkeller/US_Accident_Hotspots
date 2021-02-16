@@ -14,3 +14,5 @@ Shout out to <a href="https://github.com/polar2">@Kenneth_Kuhn</a> for assistanc
 To explore the interactive map checkout US_Accident_Hotspots.HTML file
 
 <img src="images/hotspots.png?raw=true"/>
+
+<img src="US_Accident_Hotspots.html?raw=true"/>
